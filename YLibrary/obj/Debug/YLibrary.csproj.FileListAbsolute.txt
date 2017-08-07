@@ -1,0 +1,17 @@
+d:\vsProjects\YLibrary\YLibrary\bin\Debug\YLibrary.exe.config
+d:\vsProjects\YLibrary\YLibrary\bin\Debug\YLibrary.exe
+d:\vsProjects\YLibrary\YLibrary\bin\Debug\YLibrary.pdb
+d:\vsProjects\YLibrary\YLibrary\obj\Debug\YLibrary.csprojResolveAssemblyReference.cache
+d:\vsProjects\YLibrary\YLibrary\obj\Debug\YLibrary.Form1.resources
+d:\vsProjects\YLibrary\YLibrary\obj\Debug\YLibrary.Properties.Resources.resources
+d:\vsProjects\YLibrary\YLibrary\obj\Debug\YLibrary.csproj.GenerateResource.Cache
+d:\vsProjects\YLibrary\YLibrary\obj\Debug\YLibrary.exe
+d:\vsProjects\YLibrary\YLibrary\obj\Debug\YLibrary.pdb
+d:\vsProjects\YLibrary\YLibrary\obj\Debug\YLibrary.DengLu.resources
+d:\vsProjects\YLibrary\YLibrary\obj\Debug\YLibrary.YUser.resources
+d:\vsProjects\YLibrary\YLibrary\obj\Debug\YLibrary.ZhuCe.resources
+d:\vsProjects\YLibrary\YLibrary\obj\Debug\YLibrary.MyMessage.resources
+d:\vsProjects\YLibrary\YLibrary\obj\Debug\YLibrary.JieShuJL.resources
+d:\vsProjects\YLibrary\YLibrary\obj\Debug\YLibrary.TushuMess.resources
+D:\vsProjects\YLibrary\YLibrary\obj\Debug\YLibrary.TianShu.resources
+D:\vsProjects\YLibrary\YLibrary\obj\Debug\YLibrary.YGuanliy.resources
